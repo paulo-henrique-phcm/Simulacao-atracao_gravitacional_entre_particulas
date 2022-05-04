@@ -6,6 +6,6 @@ Esta primeira versão consiste em usar a lei da ravitação universal de newton 
 Foi utilizado conceito de objetos para instanciar uma lista de particulas com seus métodos básicos.
 
 Ao clicar na tela com a simulação, uma nova instancia com tamanho aleatório é criada e adicionada na lista. A massa do objeto é determinada pelo volume da esfera que seria formada com o raio do circulo.
-(explicação mais detalhada em breve).
+(explicação mais detalhada com o código em breve).
 
 # Veja a simulação em seu navegador clicando <a href="https://paulo-henrique-phcm.github.io/simulacao_particulas/animacao_gravi.html" target="_blank" style="color: white">Aqui!</a>
